@@ -1,0 +1,179 @@
+div.container {
+    width: 970px;
+    height: 1025px;
+    background: linear-gradient(#5E4A53, black);
+    font-family: sans-serif;
+    padding: 15px;
+}
+
+div.header {
+    background-color: #F7F7F7;
+    height: 45px;
+    width: 970px;
+    padding: 15px;
+}
+
+div.picture {
+    border-color: #F7F7F7;
+    border-width: 10px;
+    display: inline-block;
+    margin: 10px;
+}
+
+#about {
+    width: 480px;
+    height: 330px;
+}
+
+#Lamode {
+    height: 400px;
+    width: 300px;
+}
+
+#fiveEleven {
+    height: 400px;
+    width: 300px;
+}
+
+#familyContacts {
+    height: 400px;
+    width: 300px;
+}
+
+#technologies {
+    height: 250px;
+    width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.content {
+    display: inline-block;
+    background: linear-gradient( to left top, #EEE7EE, white);
+    vertical-align: top;
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+.content2 {
+    display: inline;
+    background: linear-gradient( to left top, #EEE7EE, white);
+    margin: 10px;
+    margin-top: 0px;
+}
+
+img {
+    border: 5px solid #F7F7F7;
+    display: inline-block;
+}
+
+h3 {
+    display: inline-block;
+}
+
+h4 {
+    display: inline-block;
+    text-align: right;
+}
+
+h5 {
+    color: white;
+    text-align: middle;
+    vertical-align: middle;
+    margin: 0px;
+    padding-top: 20px;
+    font-weight: lighter;
+}
+
+h6 {
+    margin: 0px;
+    font-weight: lighter;
+}
+
+li {
+    float: Left;
+    list-style-type: none;
+    font-family: sans-serif;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-size: 30px;
+    color: #424242;
+}
+
+ul {
+    margin-left: 5px;
+    padding-left: 0px;
+}
+
+p {
+    margin: 15px;
+}
+
+.titlebar {
+    background: linear-gradient( to left top, #F5F5F5, #8B8996);
+    height: 40px;
+    font-size: 25px;
+    padding-left: 5px;
+}
+
+.titlebar2 {
+    background: linear-gradient( to left top, #F5F5F5, #8B8996);
+    height: 25px;
+    font-size: 20px;
+    padding: 5px;
+    padding-left: 5px;
+    color: white;
+    text-align: middle;
+}
+
+.icons {
+    padding: 20px;
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+button {
+    text-align: center;
+    float: center;
+    position: relative;
+}
+
+div.buttonPosition {
+    text-align: center;
+    margin: auto;
+    float: center;
+    position: relative;
+}
+
+.footer {
+    width: 970px;
+    background-color: #F7F7F7;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerContent {
+    text-align: center;
+    margin: 0px;
+}
+
+.SocIcon {
+    display: inline-block;
+    margin: 0px;
+    font-size: 11px;
+    text-align: center;
+}
+
+.footerIcons {
+    align: center;
+}
